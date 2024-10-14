@@ -28,7 +28,7 @@ Este projeto é uma API REST desenvolvida em Spring Boot para consultar e gerenc
 ### Passos
 1. Clone o repositório:
     ```
-   https://github.com/JhonataKornaker/Teste-Tecnico-API-Digimon.git
+   https://github.com/JhonataKornaker/apiDigimon.git
    cd apiDigimon
    ```
 2. Suba os container do Docker:
